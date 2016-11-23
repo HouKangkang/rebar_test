@@ -2,4 +2,4 @@
 try rebar
 
 
-Just gibe rebar a try by this repo.
+Just give rebar a try by this repo.

@@ -1,0 +1,12 @@
+{application, hkk_first_test,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { hkk_first_test_app, []}},
+  {env, []}
+ ]}.
